@@ -33,7 +33,7 @@ Velocit turns complex GitHub repositories into interactive architectural diagram
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/velocit.git
+    https://github.com/tushxx/velocit-.git
     cd velocit
     ```
 
